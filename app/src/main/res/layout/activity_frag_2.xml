@@ -16,6 +16,6 @@
         android:textAlignment="center"
         android:textSize="100sp"
         android:textColor="@color/colorPrimary"
-        android:text="Frag 2" />
+        android:text="Frag Test 2" />
 </LinearLayout>
 
